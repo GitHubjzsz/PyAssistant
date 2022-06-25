@@ -1,4 +1,4 @@
 # PyAssistant项目介绍
 
-python assistant 类似一个代码集合，将用过的代码整理成工具，可以直接调用。
+编写python assistant的目的是，将学习和使用过的代码汇总起来，后面类似集合一样，直接通过方法调用，减少重复代码。
 
